@@ -1,0 +1,12 @@
+{
+  "currentKing": {
+    "title": "KingOf.page — Own the Internet's Front Page",
+    "description": "Pay $1 more than the current King to claim the throne. Hold it for 24 hours to enter the Hall of Fame forever.",
+    "url": "https://kingof.page",
+    "image": "https://placehold.co",
+    "amount": 1,
+    "claimedAt": 1795352340000
+  },
+  "fallenKings": [],
+  "hallOfFame": []
+}
