@@ -1,11 +1,17 @@
 {
+  "stats": {
+    "visitors": 1,
+    "revenue": 1
+  },
   "currentKing": {
-    "title": "KingOf.page — Own the Internet's Front Page",
-    "description": "Pay $1 more than the current King to claim the throne. Hold it for 24 hours to enter the Hall of Fame forever.",
-    "url": "https://kingof.page",
-    "image": "https://placehold.co",
+    "title": "Claim1.online — Claim the #1 Spot",
+    "description": "Pay $1 more than #1 to take over this entire screen for 24 hours.",
+    "url": "https://claim1.online",
+    "category": "Startup",
+    "image": "",
     "amount": 1,
-    "claimedAt": 1795352340000
+    "clicks": 0,
+    "claimedAt": 1795452900000
   },
   "fallenKings": [],
   "hallOfFame": []
